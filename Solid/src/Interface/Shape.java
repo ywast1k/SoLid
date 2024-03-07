@@ -1,8 +1,9 @@
 package Interface;
 
 public interface Shape {
-    double area;
-    double volume;
-    
+    double area();
+   
+    double volume();
+       
 
 }

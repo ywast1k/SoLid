@@ -1,4 +1,5 @@
 package Auto;
+
 public abstract class Vehicle {
     protected int maxSpeed;
 // работа с Авто. Задаем число макс скорость для отправки в Car и Bus
